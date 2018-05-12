@@ -1,1 +1,1 @@
-https://app.codeship.com/projects/b7271d80-3831-0136-dfac-0aa9c93fd8f3/status?branch=master
+[ ![Codeship Status for cristianmarind/dojoTDD](https://app.codeship.com/projects/b7271d80-3831-0136-dfac-0aa9c93fd8f3/status?branch=master)](https://app.codeship.com/projects/289793)
