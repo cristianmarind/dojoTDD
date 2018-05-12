@@ -28,7 +28,6 @@ class CodeBreaker {
             }
         }
         else {
-            //result += "";
         }            
     }
     result = "x".repeat(equalDigits) + "_".repeat(containDigits);
