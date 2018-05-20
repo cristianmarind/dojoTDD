@@ -3,7 +3,7 @@ class CodeBreaker {
   constructor(secret) {
     this.secret = secret;
   }
-
+/*Comment*/
   compare(number){
     let size = number.length
     let result = ""
